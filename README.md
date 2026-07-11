@@ -1,2 +1,2 @@
-# Tsegay-Tesfaye-Website
-Personal academic website for Dr. Tsegay Tesfay Mezgebe.
+# Tsegay T. Mezgebe
+Personal academic website for Dr. Tsegay T. Mezgebe (Tsegay Tesfay Mezgebe).
